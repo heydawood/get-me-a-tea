@@ -24,8 +24,8 @@ const Username = ({ params }) => {
         <div className="payment flex gap-3 w-[80%] mt-10">
           <div className="supporters w-1/2 bg-slate-900 text-white p-4 rounded-lg">
             {/* show list of all the supporters as a leaderboard */}
-            <h2 className='text-2xl text-center font-bold my-3'>Supporters</h2>
-            <ul>
+            <h2 className='text-2xl font-bold my-3'>Supporters</h2>
+            <ul className='mx-4'>
               <li className='my-2'>Xyz donated $30 with a message ""</li>
               <li className='my-2'>Xyz donated $30 with a message ""</li>
               <li className='my-2'>Xyz donated $30 with a message ""</li>
@@ -37,7 +37,11 @@ const Username = ({ params }) => {
           </div>
 
           <div className="makePayment w-1/2 bg-slate-900 text-white p-2 rounded-lg">
-            {/* <button className='bg-blue-500 text-white rounded-lg px-4 py-2'>Support</button> */}
+            <h2 className='text-2xl font-bold my-3'>Make a Payment</h2>
+            <div className='flex gap-3'>
+              <input className='w-full p-4 rounded-lg bg-slate-800' placeholder="Enter amount" />
+              <button className='bg-slate-800 p-5 rounded-lg'>Pay</button>
+            </div>
           </div>
         </div>
       </div>
