@@ -44,9 +44,16 @@ export default function Home() {
       <div className="bg-white h-1 opacity-10"></div> {/* divider */}
 
       <div className="text-white container mx-auto pb-32 pt-14 px-10 flex flex-col items-center justify-center">
-      <h2 className="text-3xl font-bold text-center mb-14">Learn more about Me</h2>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ojuUnfqnUI0?si=IlyTLTWdZrSEirKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </div>
+        <h2 className="text-3xl font-bold text-center mb-14">Learn more about Me</h2>
+        {/* about me section */}
+
+        
+          {/* about me section */}
+          <p className="text-xl text-center">Hello! I'm a software developer with a passion for creating intuitive, dynamic user experiences. I specialize in JavaScript and have experience with framework like React.</p>
+          <img width={100} src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg" alt="Dawood" className="my-10 rounded-md" />
+          <a href="https://github.com/heydawood" className="text-blue-500 underline">Check out my work</a>
+        </div>
+      
 
     </>
   );
