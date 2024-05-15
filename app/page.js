@@ -49,7 +49,7 @@ export default function Home() {
 
         
           {/* about me section */}
-          <p className="text-xl text-center">Hello! I'm a software developer with a passion for creating intuitive, dynamic user experiences. I specialize in JavaScript and have experience with framework like React.</p>
+          <p className="text-xl text-center">Hello! I'm Dawood. A software developer with a passion for creating intuitive, dynamic user experiences. I specialize in JavaScript and have experience with framework like React.</p>
           <img width={100} src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg" alt="Dawood" className="my-10 rounded-md" />
           <a href="https://github.com/heydawood" className="text-blue-500 underline">Check out my work</a>
         </div>
