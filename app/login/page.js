@@ -21,7 +21,7 @@ const Login = () => {
             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
               viewBox="-0.5 0 48 48" version="1.1"> */}
 
-              {/* <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              {/* <g id="Icons" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
                 <g id="Color-" transform="translate(-401.000000, -860.000000)">
                   <g id="Google" transform="translate(401.000000, 860.000000)">
                     <path
@@ -48,7 +48,7 @@ const Login = () => {
             className="flex items-center bg-slate-50 w-64 text-black border border-gray-300 rounded-lg shadow-md max-w-xs px-6 py-2 text-sm font-medium hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
               viewBox="0 -2 44 44" version="1.1">
-              <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Icons" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
                 <g id="Color-" transform="translate(-702.000000, -265.000000)" fill="#007EBB">
                   <path
                     d="M746,305 L736.2754,305 L736.2754,290.9384 C736.2754,287.257796 734.754233,284.74515 731.409219,284.74515 C728.850659,284.74515 727.427799,286.440738 726.765522,288.074854 C726.517168,288.661395 726.555974,289.478453 726.555974,290.295511 L726.555974,305 L716.921919,305 C716.921919,305 717.046096,280.091247 716.921919,277.827047 L726.555974,277.827047 L726.555974,282.091631 C727.125118,280.226996 730.203669,277.565794 735.116416,277.565794 C741.21143,277.565794 746,281.474355 746,289.890824 L746,305 L746,305 Z M707.17921,274.428187 L707.117121,274.428187 C704.0127,274.428187 702,272.350964 702,269.717936 C702,267.033681 704.072201,265 707.238711,265 C710.402634,265 712.348071,267.028559 712.41016,269.710252 C712.41016,272.34328 710.402634,274.428187 707.17921,274.428187 L707.17921,274.428187 L707.17921,274.428187 Z M703.109831,277.827047 L711.685795,277.827047 L711.685795,305 L703.109831,305 L703.109831,277.827047 L703.109831,277.827047 Z"
@@ -65,7 +65,7 @@ const Login = () => {
             className="flex items-center bg-slate-50 w-64 text-black border border-gray-300 rounded-lg shadow-md max-w-xs px-6 py-2 text-sm font-medium hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
               viewBox="0 0 48 48" version="1.1">
-              <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Icons" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
                 <g id="Color-" transform="translate(-200.000000, -160.000000)" fill="#4460A0">
                   <path
                     d="M225.638355,208 L202.649232,208 C201.185673,208 200,206.813592 200,205.350603 L200,162.649211 C200,161.18585 201.185859,160 202.649232,160 L245.350955,160 C246.813955,160 248,161.18585 248,162.649211 L248,205.350603 C248,206.813778 246.813769,208 245.350955,208 L233.119305,208 L233.119305,189.411755 L239.358521,189.411755 L240.292755,182.167586 L233.119305,182.167586 L233.119305,177.542641 C233.119305,175.445287 233.701712,174.01601 236.70929,174.01601 L240.545311,174.014333 L240.545311,167.535091 C239.881886,167.446808 237.604784,167.24957 234.955552,167.24957 C229.424834,167.24957 225.638355,170.625526 225.638355,176.825209 L225.638355,182.167586 L219.383122,182.167586 L219.383122,189.411755 L225.638355,189.411755 L225.638355,208 L225.638355,208 Z"
@@ -84,10 +84,10 @@ const Login = () => {
              className="flex items-center bg-slate-200 w-64 text-black border border-gray-300 rounded-lg shadow-md max-w-xs px-6 py-2 text-sm font-medium hover:bg-gray-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
               viewBox="0 0 73 73" version="1.1">
-              <g id="team-collaboration/version-control/github" stroke="none" stroke-width="1" fill="none"
-                fill-rule="evenodd">
-                <g id="container" transform="translate(2.000000, 2.000000)" fill-rule="nonzero">
-                  <rect id="mask" stroke="#000000" stroke-width="2" fill="#000000" x="-1"
+              <g id="team-collaboration/version-control/github" stroke="none" strokeWidth="1" fill="none"
+                fillRule="evenodd">
+                <g id="container" transform="translate(2.000000, 2.000000)" fillRule="nonzero">
+                  <rect id="mask" stroke="#000000" strokeWidth="2" fill="#000000" x="-1"
                     y="-1" width="71" height="71" rx="14">
 
                   </rect>
@@ -108,7 +108,7 @@ const Login = () => {
             className="flex items-center bg-slate-50 w-64 text-black border border-gray-300 rounded-lg shadow-md max-w-xs px-6 py-2 text-sm font-medium hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
             <svg className="h-6 w-6 mr-2" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
               viewBox="-1.5 0 20 20" version="1.1">
-              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
                 <g id="Dribbble-Light-Preview" transform="translate(-102.000000, -7439.000000)" fill="#000000">
                   <g id="icons" transform="translate(56.000000, 160.000000)">
                     <path
